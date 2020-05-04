@@ -1,6 +1,7 @@
 # Iota [![Build Status](https://travis-ci.org/gchp/iota.svg?branch=master)](https://travis-ci.org/gchp/iota)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gchp/iota?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchristoshadjiaslanis%2Fiota.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchristoshadjiaslanis%2Fiota?ref=badge_shield)
 
 Iota is a terminal-based text-editor written in Rust.
 
@@ -113,3 +114,7 @@ Alternatively, you can use the following emacs-style keys by using the `--emacs`
 - `Ctrl-x Ctrl-s` save
 - `Ctrl-z` undo
 - `Ctrl-y` redo
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchristoshadjiaslanis%2Fiota.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchristoshadjiaslanis%2Fiota?ref=badge_large)
